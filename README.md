@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👯 I’m open to collaborations on SpringBoot Open Source demos. 
 - 😄 Pronouns: (He/Him) 
 - ⚡ Fun fact: I was a swimming team captain! Was a Senior Analyst, and now a full-time SWE. 
-- ⚡ Academic Interests: CV(Computer Vision), ML(Machine Learning) and Distributed Systems. 
+- ⚡ Academic Interests: CV(Computer Vision), ML(Machine Learning), DM(Data Mining) and Distributed Systems. 
