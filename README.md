@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on SpringBoot development. 
+- 🌱 I’m currently learning the Java 11 new features.  
+- 💬 Ask me about anything related to SpringBoot. 
+- 👯 I’m open to collaborations on SpringBoot Open Source demos. 
+- 😄 Pronouns: (He/Him) 
+- ⚡ Fun fact: I was a swimming team captain! 
