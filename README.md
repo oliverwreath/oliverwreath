@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on SpringBoot development. 
-- 🌱 I’m currently learning the Java 11 new features.  
+- 🌱 I’m currently deep diving the Java 11 advanced features.  
 - 💬 Ask me about anything related to SpringBoot. 
 - 👯 I’m open to collaborations on SpringBoot Open Source demos. 
 - 😄 Pronouns: (He/Him) 
